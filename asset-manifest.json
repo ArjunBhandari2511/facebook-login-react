@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/facebook-login-react/static/css/main.5ff49cb3.css",
+    "main.js": "/facebook-login-react/static/js/main.b9c957c6.js",
+    "index.html": "/facebook-login-react/index.html",
+    "main.5ff49cb3.css.map": "/facebook-login-react/static/css/main.5ff49cb3.css.map",
+    "main.b9c957c6.js.map": "/facebook-login-react/static/js/main.b9c957c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ff49cb3.css",
+    "static/js/main.b9c957c6.js"
+  ]
+}
